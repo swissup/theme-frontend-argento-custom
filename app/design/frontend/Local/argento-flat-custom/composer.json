@@ -1,0 +1,11 @@
+{
+    "name": "local/argento-flat-custom",
+    "type": "magento2-theme",
+    "version": "1.0.0",
+    "require": {
+        "swissup/theme-frontend-argento-flat": "*"
+    },
+    "autoload": {
+        "files": [ "registration.php" ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "local/argento-luxury-custom",
+    "type": "magento2-theme",
+    "version": "1.0.0",
+    "require": {
+        "swissup/theme-frontend-argento-luxury": "*"
+    },
+    "autoload": {
+        "files": [ "registration.php" ]
+    }
+}

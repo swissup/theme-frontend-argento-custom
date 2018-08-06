@@ -1,0 +1,11 @@
+{
+    "name": "local/argento-pure2-custom",
+    "type": "magento2-theme",
+    "version": "1.0.0",
+    "require": {
+        "swissup/theme-frontend-argento-pure2": "*"
+    },
+    "autoload": {
+        "files": [ "registration.php" ]
+    }
+}
