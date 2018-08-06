@@ -1,5 +1,8 @@
 ## Custom Argento Themes Boilerplate
 
+  > **WARNING!** Make sure you have no such folders already or your previous
+  > customizations can be rewritten !!!
+
  *  Copy `app` folder to your store root folder
  *  Log in to Magento backend and navigate to `Content > Themes`. You should see new themes in the list.
   > Clear cache if theme is not appeared in the list.
