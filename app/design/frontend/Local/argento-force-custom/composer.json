@@ -1,0 +1,11 @@
+{
+    "name": "local/argento-force-custom",
+    "type": "magento2-theme",
+    "version": "1.0.0",
+    "require": {
+        "swissup/theme-frontend-argento-force": "*"
+    },
+    "autoload": {
+        "files": [ "registration.php" ]
+    }
+}
