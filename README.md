@@ -13,6 +13,6 @@
  *  Navigate to `Stores > Configuration > Design` and select your new theme in `Design Theme` option dropdown.
  *  Press `Save Config` button.
  *  That’s all, now you can modify anything you’d like to, without modifiyng core Argento files.
-  > **NOTE**: After enabling **CUSTOM* theme the **SwissupEditor** will not work for it.
-  > It works only for native **Argento** designs.
-  > Please, use custom CSS, JS, templates editing for changing custom theme look.
+
+  > **NOTE**: Theme editor will not work for custom theme.
+  > Please enable it explicitly using our [manual](https://docs.swissuplabs.com/m2/argento/customization/custom-theme/#enable-theme-editor-for-custom-theme)
