@@ -1,0 +1,11 @@
+{
+    "name": "local/argento-marketplace-custom",
+    "type": "magento2-theme",
+    "version": "1.0.0",
+    "require": {
+        "swissup/theme-frontend-argento-marketplace": "*"
+    },
+    "autoload": {
+        "files": [ "registration.php" ]
+    }
+}
