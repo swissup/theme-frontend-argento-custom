@@ -1,5 +1,10 @@
 ## Custom Argento Themes Boilerplate
 
+### ** !!! Currenly this info and repository is outdated **
+### use terminal marketplace command instead i.e. `bin/magento swissup:theme:create Local/stripes-custom stripes --css`
+
+
+
   > **WARNING!** Make sure you have no such folders already or your previous
   > customizations can be rewritten !!!
 
